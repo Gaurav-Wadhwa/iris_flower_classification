@@ -33,10 +33,9 @@ This project serves as a template for utilizing k-Nearest Neighbors for iris flo
 
 The key steps involved in this project include:
 
-1. **Data Exploration**: Understanding the dataset, visualizing feature distributions, and identifying potential patterns.
-2. **Data Preprocessing**: Handling missing values, scaling features, and encoding class labels for compatibility with the KNN algorithm.
-3. **KNN Model Development**: Training and evaluating the KNN model on the dataset.
-4. **Model Evaluation**: Assessing the performance of the KNN model using appropriate metrics.
+1. **Data Preprocessing**: Scaling features and encoding class labels for compatibility with the KNN algorithm.
+2. **KNN Model Development**: Training and evaluating the KNN model on the dataset.
+3. **Model Evaluation**: Assessing the performance of the KNN model using appropriate metrics.
 
 ### Technologies Used
 
